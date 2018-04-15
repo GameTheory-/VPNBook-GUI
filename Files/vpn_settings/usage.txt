@@ -1,0 +1,44 @@
++ FEATURES & USAGE | EXAMPLE
+
+Important:
+- This has been tested on ubuntu 16.04. In theory it
+	^ should work on most debian based linux distros.
+- Do not move or rename any VPNBook GUI files or folders.
+	^ This will cause VPNBook GUI not to work properly.
+
+VPNBook.com Features:
+- Is a free vpn service that actually works
+- Unblock NetFlix, Youtube, or any other website
+- For full details visit https://www.vpnbook.com/features
+
+VPNBook GUI Features:
+- Makes it easy to use VPNBook.com
+- No need to enter any commands in terminal
+- Automatically gets login password from
+	^ vpnbook.com which they change every 1-2 weeks
+- Switch country servers easily
+- Switch protocols easily (tcp or udp)
+- Servers online/offline status check
+- VPN on/off quick view from main menu
+- Server/protocol quick view from main menu
+- One click vpn toggle on/off
+- Option to add desktop shorcut for easy access
+- For more visit https://intechgeek.com/
+
+Usage:
+- Execute the vpn file with this command "./vpn" without
+	^ quotes.
+- If prompted to install OpenVPN client, say yes
+- Choose menu option 3 in main menu to pick server & protocol
+	^ You only need to do this once, unless you want to
+	^ change server & protocol again.
+
+Example Usage:
+- If you're in another country, but want to see USA NetFlix
+	^ content. You choose a US server and try udp protocols
+	^ first and if udp does not work for you, then try tcp.
+
+Optional:
+- Choose menu option 5 to add a desktop shortcut for
+	^ quick access. You can move the shortcut from your
+	^ desktop to any location you want.
