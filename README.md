@@ -1,4 +1,4 @@
-# VPNBook GUI v1.5
+# VPNBook GUI v1.6
 ![image](Files/vpn_settings/vpn0.png)
 
 ![image](Files/vpn_settings/vpn1.png)
