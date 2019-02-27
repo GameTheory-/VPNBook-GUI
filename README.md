@@ -1,4 +1,6 @@
 # VPNBook GUI v2.0
+
+## This project has been discontinued
 ![image](Files/vpn_settings/vpn0.png)
 
 ![image](Files/vpn_settings/vpn1.png)
